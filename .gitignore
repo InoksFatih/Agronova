@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+node_modules/
+.expo/
+dist/
+*.apk
+.idea/
+.vscode/
+.DS_Store
+*.log
